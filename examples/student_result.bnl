@@ -1,0 +1,21 @@
+dhoro marks1 = 85;
+dhoro marks2 = 75;
+dhoro marks3 = 90;
+dhoro total = marks1 + marks2 + marks3;
+dhoro average = total / 3;
+
+dekhao total;
+dekhao average;
+
+jodi (average >= 80) {
+    dekhao 1;
+} noyto {
+    dekhao 0;
+}
+
+dhoro count = 1;
+
+jotokkhon (count <= 5) {
+    dekhao count;
+    count = count + 1;
+}

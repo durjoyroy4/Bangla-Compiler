@@ -1,0 +1,6 @@
+dhoro x = 5;
+
+jotokkhon (x > 0) {
+    dekhao x;
+    x = x - 1;
+}

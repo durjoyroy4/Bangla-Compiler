@@ -1,0 +1,5 @@
+dhoro x = 10;
+dhoro y = 20;
+dhoro sum = x + y;
+
+dekhao sum;

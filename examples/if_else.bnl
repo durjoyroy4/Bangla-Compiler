@@ -1,0 +1,7 @@
+dhoro age = 20;
+
+jodi (age >= 18) {
+    dekhao 1;
+} noyto {
+    dekhao 0;
+}
